@@ -1,0 +1,50 @@
+{
+    "innerObject": {
+        "allTruckWiseData": [
+            {
+                "allTruckDetails": [
+                    {
+                        "Total Trucks": "10",
+                        "Total Bags": "4270",
+                        "Gross WT": "315.670"
+                    }
+                ],
+                "allUnloadTruckDetails": [
+                    {
+                        "Total Bags": "3870",
+                        "Total Trucks": "9",
+                        "Unloaded Bags": "3870",
+                        "Returned Bags": "0"
+                    }
+                ],
+                "allCompleteTruckDetails": [
+                    {
+                        "Total Trucks": "9",
+                        "Total Bags": "3870",
+                        "Unloaded Bags": "3870",
+                        "Returned Bags": "0",
+                        "Gross WT": "284.470",
+                        "Tare WT": "87.680",
+                        "Net WT": "196.790"
+                    }
+                ],
+                "allRejectedTruck": [
+                    {
+                        "Rejected Trucks": "1",
+                        "Rejected Bags": "400",
+                        "Gross WT": "31.200"
+                    }
+                ]
+            }
+        ],
+        "allPlacementWiseDetails": [
+            {
+                "PlacementId": "1339",
+                "Total Wagons": "21",
+                "Total Bags": "23034",
+                "TotalQTY": "1337.120",
+                "Spillage Bags": "0"
+            }
+        ]
+    }
+}

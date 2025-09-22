@@ -1,0 +1,100 @@
+
+.showButton {
+  cursor: pointer;
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid black;
+  padding: 19px 33px;
+  border-radius: 4px;
+}
+
+.vehicle-card {
+  border: 1px solid #4CAF50;
+  margin: 20px 0px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.weight-details {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+
+.vehicle-content {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: space-between; */
+  margin-top: 10px;
+  padding: 0px 80px;
+}
+
+.all-truck-details-box {
+  display: flex;
+  justify-content: space-around;
+}
+
+.summaryHead {
+  display: flex;
+  justify-content: space-between;
+}
+.expanded-details{
+  padding: 40px;
+}
+
+.summaryBox {
+  padding: 24px;
+  margin: 40px;
+  border: 1px;
+  border: 1px solid #9a9ea2;
+  border-radius: 10px;
+}
+
+.vehicleDetailsBox {
+  padding: 24px;
+  margin: 40px;
+  border: 1px;
+  border: 1px solid black;
+  border-radius: 10px;
+
+}
+
+.more-details-link {
+  display: flex;
+  justify-content: center;
+  color: #4CAF50;
+  cursor: pointer;
+  margin-top: 32px;
+  margin-bottom: 29px;
+
+}
+
+.summaryContent {
+  border: 1px solid #4CAF50;
+  padding: 30px;
+  margin-top: 20px;
+  border-radius: 24px;
+}
+.ptags{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+    align-items: center;
+}
+
+.headingsSub {
+  justify-content: center;
+  display: flex;
+  color: #938876;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
